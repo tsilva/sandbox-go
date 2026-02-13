@@ -5,7 +5,7 @@
   [![Dev Container](https://img.shields.io/badge/Dev%20Container-Ready-blue?logo=docker)](https://containers.dev/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🐹 A containerized Go learning environment with 21 progressive tutorials, from hello world to interfaces 🚀**
+  **🐹 Go learning sandbox with numbered examples and SDL2 graphics 📚**
 
   [Quick Start](#quick-start) · [Examples](#examples) · [Web Server](#web-server) · [SDL2 Graphics](#sdl2-graphics)
 </div>
