@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-go" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-go/main/logo.png" alt="sandbox-go" width="512"/>
 
   [![Go](https://img.shields.io/badge/Go-1.21.1-00ADD8?logo=go&logoColor=white)](https://go.dev/)
   [![Dev Container](https://img.shields.io/badge/Dev%20Container-Ready-blue?logo=docker)](https://containers.dev/)
