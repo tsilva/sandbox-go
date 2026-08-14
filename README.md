@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-go/main/logo.png" alt="sandbox-go" width="512"/>
 
