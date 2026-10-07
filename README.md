@@ -1,17 +1,19 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-go/main/logo.png" alt="sandbox-go" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🐹 Go learning sandbox with numbered examples and SDL2 graphics 📚</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Go](https://img.shields.io/badge/Go-1.21.1-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Go](https://img.shields.io/badge/Go-1.21.1-00ADD8?logo=go&logoColor=white)](https://go.dev/)
   [![Dev Container](https://img.shields.io/badge/Dev%20Container-Ready-blue?logo=docker)](https://containers.dev/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🐹 Go learning sandbox with numbered examples and SDL2 graphics 📚**
-
   [Quick Start](#quick-start) · [Examples](#examples) · [Web Server](#web-server) · [SDL2 Graphics](#sdl2-graphics)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Features
 
